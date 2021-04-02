@@ -1,10 +1,10 @@
 //
 //  AppDelegate.swift
-//  EggTimer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  EggTimer App
 //
+//  Created by Eleanor Kalu on 2 April 2021.
+//  Copyright @2021 Blarnya. All rights reserved.
 
 import UIKit
 
